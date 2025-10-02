@@ -1,0 +1,5 @@
+{
+  "name": "KPI Dashboard01.10.68 ปรับอุบัติเหตุ 02.10 เวล่ 20.12",
+  "description": "A modern, interactive KPI dashboard to visualize and analyze business metrics from various reports. It supports data uploads from Excel, features multiple report types (KPI, Consumables, OT, Leave, Accident, Workload), and persists data using Firebase.",
+  "requestFramePermissions": []
+}
